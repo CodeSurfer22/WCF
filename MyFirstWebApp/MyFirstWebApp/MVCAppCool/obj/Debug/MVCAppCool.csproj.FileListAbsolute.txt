@@ -1,0 +1,84 @@
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\ApplicationInsights.config
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\MVCAppCool.dll.config
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\MVCAppCool.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\MVCAppCool.pdb
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Antlr3.Runtime.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.Web.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Newtonsoft.Json.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Helpers.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Mvc.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Optimization.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Razor.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.Razor.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\WebGrease.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Helpers.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Mvc.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Optimization.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Razor.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.Razor.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Antlr3.Runtime.pdb
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Newtonsoft.Json.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.Web.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\obj\Debug\MVCAppCool.csprojResolveAssemblyReference.cache
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\obj\Debug\MVCAppCool.csproj.CoreCompileInputs.cache
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\obj\Debug\MVCAppCool.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\MVCAppCool\obj\Debug\MVCAppCool.pdb
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\ApplicationInsights.config
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\MVCAppCool.dll.config
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\MVCAppCool.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\MVCAppCool.pdb
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Antlr3.Runtime.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.Web.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Newtonsoft.Json.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Helpers.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Mvc.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Optimization.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Razor.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.Razor.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\WebGrease.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Helpers.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Mvc.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Optimization.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.Razor.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\System.Web.WebPages.Razor.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Antlr3.Runtime.pdb
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Newtonsoft.Json.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\bin\Microsoft.AI.Web.xml
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\obj\Debug\MVCAppCool.csprojResolveAssemblyReference.cache
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\obj\Debug\MVCAppCool.csproj.CoreCompileInputs.cache
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\obj\Debug\MVCAppCool.dll
+C:\Users\Werner\Videos\Code Surfer\WCF with ASPX and MVC\MyFirstWebApp\MyFirstWebApp\MVCAppCool\obj\Debug\MVCAppCool.pdb

@@ -1,0 +1,10 @@
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\WcfService1\bin\WcfService1.dll.config
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\WcfService1\bin\WcfService1.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\WcfService1\bin\WcfService1.pdb
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\WcfService1\bin\EntityFramework.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\WcfService1\bin\EntityFramework.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Werner\Documents\Dev\MyFirstWebApp\MyFirstWebApp\WcfService1\obj\Debug\WcfService1.pdb

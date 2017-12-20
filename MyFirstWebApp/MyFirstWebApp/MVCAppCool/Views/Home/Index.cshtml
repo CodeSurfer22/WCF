@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+            <p>
+                <h2>Show Database value in DataTable</h2>
+                <div>
+                    <table id="t01">
+                        <thead>
+                        <th>Line Manager ID</th>
+                        <th>Last Name</th>
+                        <th>First Name</th>
+                        <th>Birth Date</th>
+                        </thead>
+                        @foreach (var item in ViewBag.Persons)
+                        {
+
+                            <tr>
+                                <td>
+                                    @item.PersonId
+                                </td>
+                                <td>
+                                    @item.LastName
+                                </td>
+                                <td>
+                                    @item.FirstName
+                                </td>
+                                <td>
+                                    @item.BirthDate
+                                </td>
+                            </tr>
+
+                        }
+
+                    </table>
+            </p>
+        </div>
+    </section>
+
